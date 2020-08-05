@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/mr.sanket/Downloads/python-log-parse-example-master/venv"
+set -gx VIRTUAL_ENV "/Users/mr.sanket/PycharmProjects/Python-Logger/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
